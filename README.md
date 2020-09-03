@@ -9,7 +9,7 @@ Slowly, I will try to upload here some side-projects that I am working on:
 It has very detailed information about the match and player data for the past two seasons (will try to upload the previous ones soon) and some data analysis about it.  
 Also (slowly) maintaining repositories with data about the 2020 Brazilian Serie A [(here)](https://github.com/ewalldo/Brazil-Serie-A-Data-and-Data-Analysis) and the 2020 Japanese J1 League [(here)](https://github.com/ewalldo/Japan-J1-League-Data-and-Data-Analysis)
 
--If you like competitive programming, I would recommend check it out the website [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login), which have problems of many different categories. And if you need help solving some of them, I have a repository [here](https://github.com/ewalldo/URI-OnlineJudge-Problems) where I upload the solution for the ones that I did (currently sitting at 500+ different problems).
+-If you like competitive programming, I would recommend check it out the website [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login), which have problems of many different categories. And if you need help solving some of them, I have a repository [here](https://github.com/ewalldo/URI-OnlineJudge-Problems) where I upload the solution in Python and C# for the ones that I did (currently sitting at 500+ different problems).
 
 If you look at my repositories you will also find some random machine learning problems and other things, feel free to play around with that.  
 
