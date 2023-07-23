@@ -1,10 +1,17 @@
 ### Hey there 👋
 
-Hello, my name is Evaldo Borba and I am currently a master student of Computer Science at University of Tsukuba.  
-Research topics include applying machine learning algorithms/neural network to solve problems on the image field.  
-And interests besides that include AR/VR, robotics and sports related data.  
+Hello, my name is Evaldo Borba and I am a Software Engineer working with Unity and Machile Learning.
+Currently based in Tokyo, Japan.
+
+Summary of the projects that I have worked includes:  
+・Games and gamified applications.  
+・AR / VR / MR applications.  
+・Machine learning for image recognition / classification / generation.  
 
 Slowly, I will try to upload here some side-projects that I am working on:  
+-If you're interested in Unity packages, I would recommend check it out my repository for Unity tools [here](https://github.com/ewalldo/Packages-Project).  
+It contains a good variety of tools that can be used that can be used to make the development of applications and games easier and faster. The contents of these packages ranges from gameplay systems to editor tools.  
+
 -If you like sports data, I would recommend check it out my repository about the Italia Serie A [here](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis).  
 It has very detailed information about the match and player data for the past three seasons (will try to upload the previous ones soon) + the current one and some data analysis about it.  
 Also (slowly) maintaining repositories with data about the 2020 Brazilian Serie A [(here)](https://github.com/ewalldo/Brazil-Serie-A-Data-and-Data-Analysis) and the 2020 Japanese J1 League [(here)](https://github.com/ewalldo/Japan-J1-League-Data-and-Data-Analysis)
